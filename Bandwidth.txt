@@ -1,0 +1,21 @@
+ Voici une liste de commandes courantes pour la surveillance réseau, ainsi que leurs utilisations :
+
+1. ping
+Utilité : Vérifie la connectivité entre deux hôtes.
+Commande :
+bash
+Copy
+ping <adresse_ip_ou_nom_de_domaine>
+2. traceroute (ou tracert sur Windows)
+Utilité : Affiche le chemin que prennent les paquets pour atteindre une destination.
+Commande :
+bash
+Copy
+traceroute <adresse_ip_ou_nom_de_domaine>  # Linux
+tracert <adresse_ip_ou_nom_de_domaine>     # Windows
+3. netstat
+Utilité : Affiche les connexions réseau, les tables de routage, et les statistiques des interfaces.
+Commande :
+bash
+Copy
+netstat -an 
