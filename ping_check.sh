@@ -1,5 +1,10 @@
-#!/bin/bash
+ #!/bin/bash
 # =====================================================
+
+
+
+
+# Version mise à jour du script - pour pull request
 # Script      : ping_check.sh
 # Auteur      : Magali
 # Description : Vérifie si une adresse IP (passerelle) est joignable via ping
